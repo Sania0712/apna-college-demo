@@ -1,2 +1,3 @@
 # apna-college-demo
-demo for github
+this is my first git repository
+ author--> sania sharma
